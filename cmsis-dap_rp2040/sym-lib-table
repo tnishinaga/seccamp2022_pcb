@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name sit2001)(type Legacy)(uri ${KIPRJMOD}/libs/sit2001/sit2001.lib)(options "")(descr ""))
+  (lib (name rp2040)(type Legacy)(uri ${KIPRJMOD}/libs/rp2040/rp2040.lib)(options "")(descr ""))
+  (lib (name cmsis-dap_rp2040-rescue)(type Legacy)(uri ${KIPRJMOD}/cmsis-dap_rp2040-rescue.lib)(options "")(descr ""))
+)
