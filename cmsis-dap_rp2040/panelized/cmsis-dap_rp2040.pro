@@ -1,4 +1,4 @@
-update=Sunday, 03 April 2022 at 22:08:56
+update=Sunday, 22 May 2022 at 21:50:54
 version=1
 last_client=kicad
 [general]
@@ -15,7 +15,7 @@ LibDir=
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=pdf/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
@@ -43,6 +43,11 @@ TrackWidth2=0.2
 TrackWidth3=0.3
 TrackWidth4=0.4
 TrackWidth5=0.5
+TrackWidth6=0.6
+TrackWidth7=0.7
+TrackWidth8=0.8
+TrackWidth9=0.85
+TrackWidth10=1
 ViaDiameter1=0.8
 ViaDrill1=0.4
 ViaDiameter2=0.6
